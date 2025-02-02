@@ -69,7 +69,7 @@ class Bitcoin
       print "\r🔄 Próxima atualização em: #{i} segundos"
       sleep(1)
     end
-    puts "\r⏳ Atualizando preços agora...          "
+    puts "\r⏳ Atualizando preços...          "
   end
 end
 

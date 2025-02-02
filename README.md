@@ -15,8 +15,8 @@ Antes de executar o script, você precisa ter:
 
 ### 🚀 Como Executar o Script
 
-- Baixe ou copie o código para um arquivo chamado bitcoin.rb.
-- Abra o terminal e vá até o diretório onde o arquivo está salvo.
+- Baixe ou copie o código para um arquivo chamado bitcoin.rb
+- Abra o terminal e vá até o diretório onde o arquivo está salvo
 - Execute o script com:
 ``` ruby
     ruby bitcoin.rb
